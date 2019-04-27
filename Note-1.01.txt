@@ -1,2 +1,0 @@
-1) Fix the iphone/IPad dropdown list display issue
-2) Fix the Constellation refresh issue
