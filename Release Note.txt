@@ -11,3 +11,6 @@ Ver 1.03
 Ver 1.05
 Fix the gaffer command to SAMD
 Add Baterry command to SAMD
+
+Ver 1.06
+1) Temporary remove send Battery command to avoid 2 seconds timeout in UsrMain Thread
