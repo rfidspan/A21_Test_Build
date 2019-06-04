@@ -14,3 +14,6 @@ Add Baterry command to SAMD
 
 Ver 1.06
 1) Temporary remove send Battery command to avoid 2 seconds timeout in UsrMain Thread
+
+Ver 1.0d
+1) AKS_Plus.bin need to zero padded to mutiple of 512 bytes for downloading to SAMD
