@@ -17,3 +17,6 @@ Ver 1.06
 
 Ver 1.0d
 1) AKS_Plus.bin need to zero padded to mutiple of 512 bytes for downloading to SAMD
+
+Ver 1.0e
+1) support TIMO firmware download
